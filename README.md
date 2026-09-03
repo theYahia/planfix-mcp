@@ -165,11 +165,11 @@ Base URL: `https://{PLANFIX_ACCOUNT}.{PLANFIX_HOST}/rest/`. Авторизаци
 Добавь комментарий к задаче 456: "Готово"
 ```
 
-## 🚀 Demo prompts
+## 🚀 Демо-промпты
 
-> **Use case (RU):** "Создай задачу 'Звонок клиенту' в Planfix, привяжи к сделке #12345"
+> **Сценарий:** "Создай задачу 'Звонок клиенту' в Planfix, привяжи к сделке #12345"
 
-🤖 **Pairs well with:**
+🤖 **Хорошо сочетается с:**
 - [`@theyahia/kaiten-mcp`](https://github.com/theYahia/kaiten-mcp)
 - [`@theyahia/megaplan-mcp`](https://github.com/theYahia/megaplan-mcp)
 - [`@theyahia/yandex-tracker-mcp`](https://github.com/theYahia/yandex-tracker-mcp)
@@ -207,7 +207,7 @@ MIT
 
 ---
 
-⭐ **Star if you build with Planfix** — helps other devs find this server.
+⭐ **Поставьте звезду, если строите на Planfix** — так сервер найдут другие разработчики.
 
 ---
 
