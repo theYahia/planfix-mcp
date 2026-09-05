@@ -1,3 +1,17 @@
+> ## 🗄 Репозиторий заархивирован
+>
+> Разработка переехала в **[theYahia/WWmcp](https://github.com/theYahia/WWmcp)** — монорепозиторий MCP-серверов для незападных API: СНГ, MENA, Африка, LATAM, Юго-Восточная Азия. Общее ядро `@theyahia/mcp-core`, единый CI, единый релизный конвейер.
+>
+> Актуальная версия того, что лежало здесь: [`servers/planfix/`](https://github.com/theYahia/WWmcp/tree/main/servers/planfix)
+>
+> Пакет в npm прежний — [`@theyahia/planfix-mcp`](https://www.npmjs.com/package/@theyahia/planfix-mcp), ставится и работает как раньше.
+> Здесь больше ничего не обновляется. Задачи и pull request'ы — в WWmcp.
+>
+> **Archived — development moved to [theYahia/WWmcp](https://github.com/theYahia/WWmcp),** a monorepo of MCP servers for non-Western APIs.
+> The current version of this package now lives at [`servers/planfix/`](https://github.com/theYahia/WWmcp/tree/main/servers/planfix).
+> The npm package [`@theyahia/planfix-mcp`](https://www.npmjs.com/package/@theyahia/planfix-mcp) is unchanged.
+> Please open issues and pull requests there.
+
 > 📦 Part of **[WWmcp — Emerging Markets MCP](https://github.com/theYahia/WWmcp)** — 46 MCP servers for non-Western APIs (Brazil/MENA/Gulf/SE Asia/Africa/CIS).
 
 # MCP-сервер для Planfix — задачи, проекты и CRM-контакты через ИИ
